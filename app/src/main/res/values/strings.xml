@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RssFeedAplication</string>
+
+    <string-array name="imageUrlAddres">
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/05/shoppic.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/04/ecom.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/03/politician_app.jpg</item>
+        <item>http://img.youtube.com/vi/pygFCIw1Beo/0.jpg</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/03/LayoutTypes.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/02/Picture10-1.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/02/bog2.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/02/International_language.png</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/02/FirstWire_Apps_Team_Photo-Copy.jpg</item>
+        <item>http://bicsl.com/firstwireappblog/wp-content/uploads/2017/01/Picture16.png</item>
+    </string-array>
+</resources>
